@@ -114,25 +114,25 @@
 <tbody>
 <tr>
 <td style="width: 155px; text-align: center;">2023.07 ~ 2023.10</td>
-<td style="width: 134px; text-align: center;">농협 IT 센터</td>
+<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/%EB%86%8D%ED%98%91%20%ED%95%98%EB%82%98%EB%A1%9C%EB%A7%88%ED%8A%B8">농협 IT 센터</a></td>
 <td style="width: 112.492px; text-align: center;">개발팀</td>
 <td style="width: 100.508px; text-align: center;">책임</td>
 </tr>
 <tr>
 <td style="width: 155px; text-align: center;">2023.10 ~ 2023.12</td>
-<td style="width: 134px; text-align: center;">MSX</td>
+<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/coin%20wallet">MSX</a></td>
 <td style="width: 112.492px; text-align: center;">개발팀</td>
 <td style="width: 100.508px; text-align: center;">책임</td>
 </tr>
 <tr>
 <td style="width: 155px; text-align: center;">2023.12 ~ 2024.01</td>
-<td style="width: 134px; text-align: center;">현대 오일 뱅크</td>
+<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/%EC%A0%84%EA%B8%B0%EC%B0%A8%20%EC%B6%A9%EC%A0%84%EC%95%B1">현대 오일 뱅크</a></td>
 <td style="width: 112.492px; text-align: center;">개발팀</td>
 <td style="width: 100.508px; text-align: center;">책임</td>
 </tr>
 <tr>
 <td style="width: 155px; text-align: center;">2024.01 ~ 2024. 03</td>
-<td style="width: 134px; text-align: center;">어거스트랩</td>
+<td style="width: 134px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/blob/main/System%20Integration/The%20red">어거스트랩</a></td>
 <td style="width: 112.492px; text-align: center;">개발팀</td>
 <td style="width: 100.508px; text-align: center;">책임</td>
 </tr>
