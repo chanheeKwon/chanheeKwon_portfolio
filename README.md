@@ -83,7 +83,7 @@
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2020.12 ~ 2021.11</td>
-<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">넷믹스</a></td>
+<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EB%84%B7%EB%AF%B9%EC%8A%A4">넷믹스</a></td>
 <td style="width: 110.875px; text-align: center;">개발연구팀</td>
 <td style="width: 102px; text-align: center;">주임</td>
 </tr>
