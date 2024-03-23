@@ -1,6 +1,6 @@
-<h2 style="text-align: left;"><strong>Flutter Developer Kwon Chanhee portfolio</strong></h2>
+<h1 style="text-align: left;"><strong>Flutter Developer Kwon Chanhee portfolio</strong></h1>
 <p>&nbsp;</p>
-<p>Flutter v1부터 공부하며 개발해온 6년차 개발자 권찬희 입니다.</p>
+<h2>Flutter v1부터 공부하며 개발해온 6년차 개발자 권찬희 입니다.</h2>
 <p>&nbsp;</p>
 <table style="height: 28px; width: 532px;" border="0">
 <tbody>
