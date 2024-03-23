@@ -138,3 +138,30 @@
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="height: 33px;" width="354">
+<tbody>
+<tr style="height: 29px;">
+<td style="width: 344px; height: 29px;">
+<p class="p1" style="text-align: center;"><strong>Others</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="height: 54px;" width="353">
+<tbody>
+<tr>
+<td style="width: 168.5px; text-align: center;">MS Office</td>
+<td style="width: 168.5px; text-align: center;">중</td>
+</tr>
+<tr>
+<td style="width: 168.5px; text-align: center;">직전연봉</td>
+<td style="width: 168.5px; text-align: center;">5,500 만원</td>
+</tr>
+<tr>
+<td style="width: 168.5px; text-align: center;">프리랜서 월 단가</td>
+<td style="width: 168.5px; text-align: center;">550 ~ 600 만원</td>
+</tr>
+</tbody>
+</table>
