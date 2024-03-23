@@ -77,25 +77,25 @@
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2018.08 ~ 2020.05</td>
-<td style="width: 133.125px; text-align: center;">###[온아이오](www.naver.com)</td>
+<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">온아이오</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">사원</td>
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2020.12 ~ 2021.11</td>
-<td style="width: 133.125px; text-align: center;">넷믹스</td>
+<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">넷믹스</a></td>
 <td style="width: 110.875px; text-align: center;">개발연구팀</td>
 <td style="width: 102px; text-align: center;">주임</td>
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2021.11 ~ 2022.10</td>
-<td style="width: 133.125px; text-align: center;">피플앤잡</td>
+<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">피플앤잡</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">대리</td>
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2022.10 ~ 2023.06</td>
-<td style="width: 133.125px; text-align: center;">더우리샵</td>
+<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">더우리샵</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">대리</td>
 </tr>
