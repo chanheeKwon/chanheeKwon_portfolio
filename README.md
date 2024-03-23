@@ -14,7 +14,7 @@
 <table style="height: 129px; width: 531.961px;">
 <tbody>
 <tr>
-<td style="width: 85px; text-align: center;"><strong>성&nbsp; &nbsp; &nbsp; &nbsp; 명</strong></td>
+<td style="width: 85px; text-align: center;"><strong>성&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 명</strong></td>
 <td style="width: 426.961px; text-align: center;">권 찬 희</td>
 </tr>
 <tr>
@@ -26,13 +26,13 @@
 <td style="width: 426.961px; text-align: center;">010.4955.7347</td>
 </tr>
 <tr>
-<td style="width: 85px; text-align: center;"><strong>주&nbsp; &nbsp; &nbsp; &nbsp; 소</strong></td>
+<td style="width: 85px; text-align: center;"><strong>주&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 소</strong></td>
 <td style="width: 426.961px; text-align: center;">
 <p>부천시 소사구 심곡본동 617-11&nbsp;(부천 롯데아파트 2동 509호)</p>
 </td>
 </tr>
 <tr>
-<td style="width: 85px; text-align: center;"><strong>병&nbsp; &nbsp; &nbsp; &nbsp; 역</strong></td>
+<td style="width: 85px; text-align: center;"><strong>병&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; 역</strong></td>
 <td style="width: 426.961px; text-align: center;">육군 병장 전역 (2016.10 ~ 2018.07)</td>
 </tr>
 </tbody>
