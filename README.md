@@ -60,6 +60,49 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<table style="height: 36px;" width="358">
+<tbody>
+<tr>
+<td style="width: 348px;">
+<p class="p1" style="text-align: center;"><strong>Core Competency </strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<h4>Git, SVN, Figma, Trello, Zeplin, Jira 등 다양한 협업 가능</h4>
+</li>
+<li>
+<h4>상태관리에 대한 이해 (Getx, Bloc, Provider)</h4>
+</li>
+<li>
+<h4>다양한 Api 활용 및 커스텀</h4>
+</li>
+<li>
+<h4>Firebase를 이용한 다양한 기능 활용 (push, database 등)</h4>
+</li>
+<li>
+<h4>RESTful Api, GraphQR 에 대한 이해 및 활용</h4>
+</li>
+<li>
+<h4>프로젝트에 맞는 아키텍쳐 사용 (MVVM, MVC 등)</h4>
+</li>
+<li>
+<h4>라이브러리를 상황에 맞게 커스텀</h4>
+</li>
+<li>
+<h4>블루투스를 이용한 펌웨어 통신</h4>
+</li>
+<li>
+<h4>소셜 로그인 구현</h4>
+</li>
+<li>
+<h4>예외처리를 위한 효율적인 UI 작업</h4>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <table style="width: 533px;">
 <tbody>
 <tr>
