@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2018.08 ~ 2020.05</td>
-<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">온아이오</a></td>
+<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EC%98%A8%EC%95%84%EC%9D%B4%EC%98%A4">온아이오</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">사원</td>
 </tr>
