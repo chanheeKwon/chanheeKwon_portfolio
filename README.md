@@ -89,13 +89,13 @@
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2021.11 ~ 2022.10</td>
-<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">피플앤잡</a></td>
+<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%ED%94%BC%ED%94%8C%EC%95%A4%EC%9E%A1">피플앤잡</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">대리</td>
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2022.10 ~ 2023.06</td>
-<td style="width: 133.125px; text-align: center;"><a href="http://www.naver.com">더우리샵</a></td>
+<td style="width: 133.125px; text-align: center;"><a href="https://github.com/chanheeKwon/chanheeKwon_portfolio/tree/main/Work%20Experience/%EB%8D%94%EC%9A%B0%EB%A6%AC%EC%83%B5">더우리샵</a></td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">대리</td>
 </tr>
