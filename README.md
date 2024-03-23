@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td style="width: 154px; text-align: center;">2018.08 ~ 2020.05</td>
-<td style="width: 133.125px; text-align: center;">온아이오###(www.naver.com)</td>
+<td style="width: 133.125px; text-align: center;">###[온아이오](www.naver.com)</td>
 <td style="width: 110.875px; text-align: center;">개발팀</td>
 <td style="width: 102px; text-align: center;">사원</td>
 </tr>
